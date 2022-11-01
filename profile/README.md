@@ -1,5 +1,5 @@
 ## PLATEAU SYSTEM
-PLATEAUを用いたシステムの研究・開発を行っています。
+PLATEAUを用いたシステムの研究・開発を行っています。  
 ※本プロジェクトは大学の研究が主目的でありPLATEAU プロジェクト(国土交通省)との直接的な関係はございません。
 [PLATEAU OBJ(公式)](https://www.geospatial.jp/ckan/dataset/plateau-tokyo23ku)
 ## 概要  
