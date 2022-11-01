@@ -1,6 +1,6 @@
 ## PLATEAU SYSTEM
 PLATEAUを用いたシステムの研究・開発を行っています。  
-※本プロジェクトは大学の研究が主目的でありPLATEAU プロジェクト(国土交通省)との直接的な関係はございません。
+※本プロジェクトは大学の研究が主目的でありPLATEAU プロジェクト(国土交通省)との直接的な関係はございません。  
 [PLATEAU OBJ(公式)](https://www.geospatial.jp/ckan/dataset/plateau-tokyo23ku)
 ## 概要  
 　本システムは「PLATEAUとYOLOv5を用いた定点観測及び人流シミュレータ」である。3D可視化エディタ(Unity)、Web管理システム(Laravel)、YOLOv5を動作させる専用サ－バー(YOLOv5,FastAPI)用いたシステム構成になっており、データベース(MySQL)に定期的な観測データを蓄積することができる。また情報の可視化に3D都市(PLATEAU)を使用することで、詳細なマップUIの開発やパラメータに変化によるシミュレータの開発等を行うことができる。
